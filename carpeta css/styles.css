@@ -1,15 +1,2 @@
-*{
-    box-sizing: border-box;
-}h1{
-    font-family: Helvetica, sans-serif;
-    font-size: 4rem;
-    color: red;
-    text-align: center;
-}
-@media  and (min_width:768px) {
-    h1{
-        color: #fof;
-                
-    }
-    
+*
 }  
